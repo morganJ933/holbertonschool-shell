@@ -12,3 +12,4 @@ Scripts
 8-firstdelete: Deletes the file betty from /tmp/my_first_directory/
 9-firstdirdeletion: Deletes the directory my_first_directory from /tmp/.
 10-back: Changes the working directory to the previous directory
+11-lists: Lists all files, including hidden files, in the current directory, its parent, and /boot in long format.
