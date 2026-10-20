@@ -9,3 +9,4 @@ Scripts
 4-listmorefiles: Displays all directory contents, including hidden files, in long format.
 5-listfilesdigitonly: Displays all directory contents in long format with numeric user and group IDs, including hidden files.
 6-firstdirectory: Creates a directory named my_first_directory in /tmp/.
+8-firstdelete: Deletes the file betty from /tmp/my_first_directory/
