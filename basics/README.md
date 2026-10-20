@@ -15,3 +15,4 @@ Scripts
 11-lists: Lists all files, including hidden files, in the current directory, its parent, and /boot in long format.
 12-file_type: Displays the type of the file /tmp/iamafile.
 13-symbolic_link: Creates a symbolic link named __ls__ pointing to /bin/ls in the current directory.
+14-copy_html: Copies HTML files to the parent directory when missing or newer.
