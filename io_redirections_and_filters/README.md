@@ -17,3 +17,4 @@
 - 14-findthatword: Displays lines containing "root" from /etc/passwd.
 - 15-countthatword: Counts the number of lines containing "bin" in /etc/passwd.
 - 16-whatsnext: Displays lines containing "root" and the 3 lines following each match in /etc/passwd.
+- 17-hidethisword: Displays all lines in /etc/passwd that do not contain "bin".
