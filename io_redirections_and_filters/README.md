@@ -9,3 +9,4 @@
 - 6-third_line: Displays the third line of the file iacta.
 - 7-file: Creates a file with a special-character name containing Best School.
 - 8-cwd_state: Writes the output of ls -la into ls_cwd_content, overwriting the file if it exists.
+- 9-duplicate_last_line: Duplicates the last line of the file iacta.
