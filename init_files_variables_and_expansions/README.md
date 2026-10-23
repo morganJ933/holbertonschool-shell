@@ -16,3 +16,4 @@ This project covers shell initialization files, variables, expansions, and alias
 9-divide_and_rule: Prints the result of dividing the environment variable POWER by DIVIDE.
 10-love_exponent_breath: Prints the result of raising BREATH to the power of LOVE.
 11-binary_to_decimal: Converts a binary number stored in BINARY to decimal.
+12-combinations: Prints all two-letter lowercase combinations in alphabetical order, excluding oo.
