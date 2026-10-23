@@ -17,3 +17,4 @@ This project covers shell initialization files, variables, expansions, and alias
 10-love_exponent_breath: Prints the result of raising BREATH to the power of LOVE.
 11-binary_to_decimal: Converts a binary number stored in BINARY to decimal.
 12-combinations: Prints all two-letter lowercase combinations in alphabetical order, excluding oo.
+13-print_float: Prints the value of the environment variable NUM with two decimal places.
