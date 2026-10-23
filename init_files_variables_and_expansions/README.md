@@ -14,3 +14,4 @@ This project covers shell initialization files, variables, expansions, and alias
 7-create_global_variable: Creates a global variable named `BEST` with the value `School`
 8-true_knowledge: Prints the result of adding 128 to the value of the environment variable `TRUEKNOWLEDGE`.
 9-divide_and_rule: Prints the result of dividing the environment variable POWER by DIVIDE.
+10-love_exponent_breath: Prints the result of raising BREATH to the power of LOVE.
